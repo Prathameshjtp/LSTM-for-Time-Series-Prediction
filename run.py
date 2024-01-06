@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 from core.data_processor import DataLoader
 from core.model import Model
 
-
 def plot_results(predicted_data, true_data):
     fig = plt.figure(facecolor='white')
     ax = fig.add_subplot(111)
