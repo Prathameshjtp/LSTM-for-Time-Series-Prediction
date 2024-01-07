@@ -81,6 +81,5 @@ def main():
     plot_results_multiple(predictions, y_test, configs['data']['sequence_length'])
     # plot_results(predictions, y_test)
 
-
 if __name__ == '__main__':
     main()
