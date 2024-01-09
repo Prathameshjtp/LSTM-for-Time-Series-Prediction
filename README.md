@@ -3,7 +3,7 @@
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
 
 
-[Video on the workings and usage of LSTMs and run-through of this code](https://www.youtube.com/watch?v=2np77NOdnwk)
+
 
 ## Requirements
 
