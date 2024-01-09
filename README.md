@@ -2,9 +2,6 @@
 
 LSTM built using the Keras Python package to predict time series steps and sequences. Includes sine wave and stock market data.
 
-
-
-
 ## Requirements
 
 Install requirements.txt file to make sure correct versions of libraries are being used.
