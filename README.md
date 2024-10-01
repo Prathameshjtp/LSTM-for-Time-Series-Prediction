@@ -4,7 +4,7 @@ LSTM built using the Keras Python package to predict time series steps and seque
 
 ## Requirements
 
-Install requirements.txt file to make sure correct versions of libraries are being used .
+Install requirements.txt file to make sure correct versions of libraries are being used.
 
 * Python 3.5.x
 * TensorFlow 1.10.0
